@@ -23,7 +23,7 @@ function App() {
         <div className="mx-auto max-w-7xl px-6">
           <div className="h-px w-full bg-gradient-to-r from-transparent via-white/10 to-transparent mb-8" />
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-            <p className="text-slate-400 text-sm">© {new Date().getFullYear()} Nova Studio. All rights reserved.</p>
+            <p className="text-slate-400 text-sm">© {new Date().getFullYear()} designverse. All rights reserved.</p>
             <div className="flex items-center gap-6 text-slate-400 text-sm">
               <a href="#" className="hover:text-white">Privacy</a>
               <a href="#" className="hover:text-white">Terms</a>

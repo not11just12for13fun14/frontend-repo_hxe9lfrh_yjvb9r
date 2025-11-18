@@ -29,7 +29,7 @@ export default function Navbar() {
                   </motion.span>
                   <Sparkles className="absolute -right-2 -top-2 h-4 w-4 text-fuchsia-400" />
                 </div>
-                <span className="text-white/90 font-semibold tracking-tight text-lg">Nova Studio</span>
+                <span className="text-white/90 font-semibold tracking-tight text-lg">designverse</span>
               </a>
 
               <div className="hidden md:flex items-center gap-8">
